@@ -1,0 +1,8 @@
+target/
+
+.idea/
+*.iml
+.DS_Store
+
+*.log
+hs_err_pid*
